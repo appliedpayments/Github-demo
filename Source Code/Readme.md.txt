@@ -1,0 +1,1 @@
+This is a readme for the source code directory of the project. Here you will find the source code for the project, user guides on how to run it, as well as functional documentation for developers.
